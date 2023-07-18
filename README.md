@@ -1,5 +1,5 @@
 # LateNight_Sunrise-Color-Scheme by Dj.Anth0n1
-A daytime color scheme for Latenight Classic.The Skin is original and nothing changed in xml files.Only the style.qss file was changed.
+A daylight color scheme for Latenight Classic.The Skin is original and nothing changed in xml files.Only the style.qss file was changed.
 Installation is the same as the other skins.Select Latenight skin and then select the Sunrise color scheme.
 Happy Mixxxing!!!
 
